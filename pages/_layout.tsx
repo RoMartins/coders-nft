@@ -1,7 +1,7 @@
 import {ReactNode} from 'react'
 import Footer from './_footer'
 import Navbar from './_navbar'
-import Logo from './assets/Logo'
+import Logo from '../assets/Logo'
 
 
 type LayoutProps = {
