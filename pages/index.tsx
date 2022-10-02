@@ -48,17 +48,17 @@ export default function Home() {
 }
 
 
-const nfts = [{
+export const nfts = [{
   id : '1',
   name:'#4473',
   price: '0.1',
   author:'0xe51B77159',
   image: 'https://images.unsplash.com/photo-1647334360887-89fc70bb6b5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
-  description: 'Descrição NFT',
+  description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae quasi nihil nisi quibusdam harum eum numquam voluptas impedit quidem soluta, dignissimos sint. Recusandae incidunt aliquam nulla quod beatae nesciunt esse?',
 },
 
 {
-  id : '1',
+  id : '4',
   name:'#4474',
   price: '0.1',
   author:'0xe51B77159',
@@ -67,7 +67,7 @@ const nfts = [{
 },
 
 {
-  id : '1',
+  id : '2',
   name:'#4475',
   price: '0.1',
   author:'0xe51B77159',
@@ -76,7 +76,7 @@ const nfts = [{
 },
 
 {
-  id : '1',
+  id : '3',
   name:'#4476',
   price: '0.1',
   author:'0xe51B77159',
