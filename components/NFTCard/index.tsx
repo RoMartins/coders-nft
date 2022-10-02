@@ -5,7 +5,7 @@ type NFTCardProps = {
    name:string,
    id : string,
   price: string,
-  authorstring:string,
+  author:string,
   image: string,
   description: string,
  }
